@@ -6,7 +6,7 @@ Modificar as conexoes nos XMLs do Brevis
 
 A escrita do código deve estar com uma leitura de simples interpretação
 
-Utilizado para acesso ao Banco um projeto de minha autoria, utilizando reflection e é de propriedade de Vira Mundo.
+Utilizado para acesso ao Banco um projeto (VMBrevis) de minha autoria, utilizando reflection e é de propriedade de Vira Mundo.
 
 A solução foi desenvolvida em três camadas, podendo ser apenas duas, baseada em ASP.NET MVC, Angular 1.7, Html e Bootstrap.
 
